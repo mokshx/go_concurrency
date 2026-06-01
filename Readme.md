@@ -1,0 +1,6 @@
+- why what , and how 
+- messages communication with for select (deamons)
+- deadlocks
+- data race conditions
+- mutexes
+- atomic values
